@@ -1,10 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏽
 
-I am a Software Developer living in Berlin
-
-My linkedIn : [ ![ LinkedIn ](<img src="https://img.shields.io/badge/LinkedIn-cf5533?style=for-the-badge&logo=LinkedIn&logoColor=white">
-
-) ](https://www.linkedin.com/in/eldad-chidra/) 
+My name is Eldad and I am a Software Developer living in Berlin
 
 ### 💻 Tech Stack
 <p align-"left">
