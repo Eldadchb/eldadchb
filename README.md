@@ -8,7 +8,8 @@ My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Python-037acb?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Python-037acb?style=for-the-badge&logo=Python&logoColor=yellow">
+<img src="https://img.shields.io/badge/C-037acb?style=for-the-badge&logo=C&logoColor=yellow">
 </p>
 
 ### Frontend development
