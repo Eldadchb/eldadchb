@@ -16,6 +16,7 @@ My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 <p align-"left">
 <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/angular-5ed3f3?style=for-the-badge&logo=angular&logoColor=black">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"> 
 <img src="https://img.shields.io/badge/Material--UI-319795?style=for-the-badge&logo=material-ui&logoColor=white"> 
@@ -37,5 +38,4 @@ My linkedIn : [ ![ LinkedIn ](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 <img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
 <img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
 <img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
 </p>
