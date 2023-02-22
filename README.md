@@ -2,10 +2,11 @@
 
 I am a Software Developer living in Berlin
 
-My linkedIn : [ ![ LinkedIn ](<img src="https://img.shields.io/badge/linkedin-ffeb3b?style=for-the-badge&logo=linkedin&logoColor=black">
+My linkedIn : [ ![ LinkedIn ](<img src="https://img.shields.io/badge/LinkedIn-cf5533?style=for-the-badge&logo=LinkedIn&logoColor=white">
+
 ) ](https://www.linkedin.com/in/eldad-chidra/) 
 
-### Tech Stack
+### 💻 Tech Stack
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-037acb?style=for-the-badge&logo=typescript&logoColor=white">
