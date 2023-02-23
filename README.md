@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-My name is Eldad and I am a Software Developer living in Berlin
+My name is Eldad and I am a Software Developer living in Berlin. Excited about creating things and making a social impact.
 
 ### 💻 Tech Stack
 <p align-"left">
